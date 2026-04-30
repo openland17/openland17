@@ -32,7 +32,7 @@ Python · PyTorch · HuggingFace (Transformers / Datasets / Hub) · FastAPI · N
 
 ### Reading list / influences
 
-Sutton & Barto · Bishop's PRML · Karpathy's lectures · *The Hundred-Page ML Book* · Anthropic's interpretability work · Simon Willison's blog.
+Sutton & Barto · Bishop's PRML · Karpathy's lectures · *The Hundred-Page ML Book* · Simon Willison's blog.
 
 ---
 
