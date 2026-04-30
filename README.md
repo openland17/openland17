@@ -1,6 +1,6 @@
 # Matt Smith
 
-Independent AI consultant | Brisbane, Australia.
+Independent AI consultant — Brisbane, Australia.
 I build production ML and automation systems for businesses that don't have an in-house ML team.
 
 ```
@@ -13,7 +13,7 @@ contact  →  matt@mjs-consulting.com.au
 
 ### Currently
 
-- Building **CamoNet** | fine-grained military camouflage classifier, DINOv2 backbone, 40 patterns. [→ model](https://huggingface.co/Mattysmittttt/camonet)
+- Building **CamoNet** — fine-grained military camouflage classifier, DINOv2 backbone, 40 patterns. [→ model](https://huggingface.co/Mattysmittttt/camonet)
 - Shipping client work in email-to-event automation, donor intelligence and hospitality analytics.
 
 ### Stack I reach for
@@ -28,6 +28,12 @@ Python · PyTorch · HuggingFace (Transformers / Datasets / Hub) · FastAPI · N
 | **Bowser** | Fuel price comparison app for AU, route-based AI cost-benefit engine across 6,000+ stations. [bowserapp.com.au](https://bowserapp.com.au) |
 | **Donor Intelligence** | Donor analytics dashboard for a Foundation. Closed-source. |
 | **MJS Consulting** | AI automation consulting practice. Aus SMB focus. [mjs-consulting.com.au](https://mjs-consulting.com.au) |
+
+### From the lab
+
+<img alt="CamoNet training run: train and validation loss across 15 epochs, best checkpoint at epoch 10 with validation loss 0.78, top-1 accuracy 0.738" src="./assets/training-curves.svg" width="100%">
+
+<sub>CamoNet · DINOv2-base fine-tune · single A100 · bf16 · 15 epochs.</sub>
 
 ### Reading list / influences
 
