@@ -1,7 +1,7 @@
 # Matt Smith
 
 Independent AI consultant | Brisbane, Australia.
-I build production ML and automation systems for businesses that don't have an in-house ML team.
+I build production ML and automation systems for businesses that don't have an in-house ML team. Profile pic is the office I work from.
 
 ```
 work     →  mjs-consulting.com.au
