@@ -15,7 +15,6 @@ contact  →  matt@mjs-consulting.com.au
 
 - Building **CamoNet** | fine-grained military camouflage classifier, DINOv2 backbone, 40 patterns. [→ model](https://huggingface.co/Mattysmittttt/camonet)
 - Shipping client work in email-to-event automation, donor intelligence and hospitality analytics.
-- UNSW Advanced Professional Certificate in Machine Learning (Feb–Jul 2026).
 
 ### Stack I reach for
 
