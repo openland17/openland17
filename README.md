@@ -1,6 +1,6 @@
 # Matt Smith
 
-Independent AI consultant — Brisbane, Australia.
+Independent AI consultant | Brisbane, Australia.
 I build production ML and automation systems for businesses that don't have an in-house ML team.
 
 ```
